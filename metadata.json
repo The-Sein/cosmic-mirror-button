@@ -1,0 +1,7 @@
+{
+  "name": "Cosmic Mirror Button",
+  "description": "A high-fidelity implementation of a glassmorphic button with mouse-tracking light effects, particles, and dynamic glowing borders using Tailwind CSS and React.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
